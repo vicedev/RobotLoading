@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FullScreenDialog" parent="Theme.AppCompat.Dialog">
+        <!--去除标题-->
+        <item name="android:windowNoTitle">true</item>
+        <!--去除背景-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

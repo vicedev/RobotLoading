@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RobotLoadingLib</string>
+    <string name="robot_calculating">人工智能测算中...</string>
+</resources>
